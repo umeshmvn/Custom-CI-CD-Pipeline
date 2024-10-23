@@ -96,7 +96,7 @@ This project builds a dockerized PostgreSQL instance and an Odoo ERP instance wi
     ```
 
 4. **Build and Push Java Maven App**:
-    - Jenkins automatically builds and pushes the Dockerized Java Maven app to DockerHub.
+    - Jenkins automatically builds and pushes the Dockerized Java umesh app to DockerHub.
 
 5. **Access Odoo Instance**:
     - Odoo ERP should be accessible at `http://<your-aws-instance-ip>:8069`.
